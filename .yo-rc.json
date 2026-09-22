@@ -1,0 +1,20 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "useGulp": false,
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.13.1",
+    "sdksVersions": {},
+    "version": "1.22.2",
+    "libraryName": "autogen",
+    "libraryId": "8f1c2d09-78a3-4113-ba68-09f52d0f75eb",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "Autogen",
+    "solutionShortDescription": "Autogen description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}
